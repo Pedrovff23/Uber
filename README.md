@@ -12,11 +12,9 @@ Este projeto aplica algumas funcionalidades com por exemplo o Firebase utilizand
 ### Bibliotecas
 Foram utilizadas algumas biblioteca para auxiliar no desenvolvimento como a GeoFire para adicionar um listener no mapa
 
-# Vídeo do funcionamento do Uber Clone (motorista)
+# Vídeo do funcionamento do Uber Clone (Motorista)
 
 https://user-images.githubusercontent.com/55757037/199282956-f7dd067c-185b-4f17-bb69-3e2f44aea2e1.mp4
-
-
 
 ## Desenvolvida com:
 
